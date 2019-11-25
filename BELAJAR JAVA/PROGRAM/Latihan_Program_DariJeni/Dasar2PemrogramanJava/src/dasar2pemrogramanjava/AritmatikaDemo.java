@@ -26,10 +26,26 @@ public class AritmatikaDemo {
         System.out.println("    x ="+x);
         System.out.println("    y ="+y);
         
-        //sum of numbers
-        System.out.println("Adding ");
+        //sum of number
+        System.out.println("Adding ");//penjumlahan
         System.out.println("i + j = "+(i+j));
         System.out.println("x + y = "+(x+y));
+        
+        //reduction of number
+        System.out.println("Subtracting");//pengurangan
+        System.out.println("i - j = "+(i-j));
+        System.out.println("x - y = "+(x-y));
+        
+        //multiplication number
+        System.out.println("Multiplying ");//perkalian
+        System.out.println("i * j = "+(i*j));
+        System.out.println("x * y = "+(x*y));
+        
+        //nreduction of number
+        System.out.println("Dividing");//Pembagian
+        System.out.println("i / j = "+(i/j));
+        System.out.println("x / y = "+(x/y));
+        
         
     }
 }
