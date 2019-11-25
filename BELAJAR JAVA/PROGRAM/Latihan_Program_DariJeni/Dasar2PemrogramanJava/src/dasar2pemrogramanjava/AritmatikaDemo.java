@@ -41,7 +41,7 @@ public class AritmatikaDemo {
         System.out.println("i * j = "+(i*j));
         System.out.println("x * y = "+(x*y));
         
-        //nreduction of number
+        //Div of number
         System.out.println("Dividing");//Pembagian
         System.out.println("i / j = "+(i/j));
         System.out.println("x / y = "+(x/y));
