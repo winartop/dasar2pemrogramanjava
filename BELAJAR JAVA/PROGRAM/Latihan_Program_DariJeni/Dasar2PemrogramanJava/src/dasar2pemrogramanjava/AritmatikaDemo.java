@@ -26,6 +26,10 @@ public class AritmatikaDemo {
         System.out.println("    x ="+x);
         System.out.println("    y ="+y);
         
+        //sum of numbers
+        System.out.println("Adding ");
+        System.out.println("i + j = "+(i+j));
+        System.out.println("x + y = "+(x+y));
         
     }
 }
